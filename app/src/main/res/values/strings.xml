@@ -3,4 +3,10 @@
     <string name="configuracao">Configuração</string>
     <string name="novo_contato">Novo contato</string>
     <string name="sair">Sair</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
 </resources>

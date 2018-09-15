@@ -8,7 +8,12 @@ public class Contato implements Serializable {
     private String telefone;
     private String email;
 
+    public Contato() {
+        super();
+    }
+
     public Contato(String nome, String endereco, String telefone, String email) {
+        super();
         this.setNome(nome);
         this.setEndereco(endereco);
         this.setTelefone(telefone);
